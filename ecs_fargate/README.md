@@ -223,7 +223,7 @@ To send custom metrics by listening to DogStatsD packets from other containers, 
 
 #### Other environment variables
 
-For environment variables available with the Docker Agent container, see the [Docker Agent][14] page. **Note**: Some variables are not be available for Fargate.
+For environment variables available with the Docker Agent container, see the [Docker Agent][14] page. **Note**: Some variables may not be available for Fargate.
 
 
 | Environment Variable               | Description                                    |
